@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Complaint</string>
+    <string-array name="ComplaintList">
+        <item>Select Complaint Type</item>
+        <item>Cyber Crime</item>
+        <item>Theft</item>
+        <item>Robbery</item>
+        <item>Murder</item>
+        <item>Snatching</item>
+        <item>Eve-Teasing</item>
+    </string-array>
+    <string-array name="cStatus">
+        <item>Select Status</item>
+        <item>Applied</item>
+        <item>Viewed</item>
+        <item>Accepted</item>
+        <item>Investigating</item>
+        <item>In Court</item>
+        <item>Closed</item>
+        <item>Rejected</item>
+    </string-array>
+</resources>
