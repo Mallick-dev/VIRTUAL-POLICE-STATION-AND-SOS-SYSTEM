@@ -12,3 +12,9 @@ contacts.
 * Programming Language: __Java__
 * IDE: __Android Studio__
 * CloudStore: __Firebase__
+
+## Authors
+
+- [@Mallick-dev](https://github.com/Mallick-dev)
+- [@Shibayan-star](https://github.com/Shibayan-star)
+- [@sahilshaikh2905](https://github.com/sahilshaikh2905)
