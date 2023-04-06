@@ -7,7 +7,7 @@ its status, and track court proceedings. Additionally, incorporated a
 GPS-based SOS system to send emergency requests to pre-saved
 contacts.
 
-### Languages and Technologies used
+### Languages and Technologies
 
 * Programming Language: __Java__
 * IDE: __Android Studio__
